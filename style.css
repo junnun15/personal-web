@@ -1,0 +1,110 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    width: 100%;
+}
+.name{
+    color: lightsalmon;
+    font-size: 35px;
+}
+.half{
+   width: 40%;
+   float: left;
+   margin: 5px;
+   padding: 70px;
+   
+}
+.half image{
+    width: 100%;
+}
+.top{
+    background-image: url("images/top-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 550px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+}
+.middle{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.bio{
+    color:lightsalmon;
+    font-size: 40px;
+}
+.latest{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.third{
+    width: 30%;
+    float:left;
+    margin: 5px;
+    padding: 10px;
+    margin-top: 200px;
+}
+.latest-banner img{
+    width: 100%;
+    margin: 4px;
+    padding: 5px;
+}
+#latest-b{
+    background-image: url("images/latest-work-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+h5{
+    text-align: center;
+    font-weight: 200;
+}
+p{
+    text-align: center;
+}
+.j{
+    text-align: center;
+}
+.messege{
+    text-decoration: none;
+    background-color: lightsalmon;
+}
+.m{
+    text-decoration: none;
+    background-color: magenta;
+    padding: 30px 20px;
+    border-radius: 10px;
+    color:white;
+    margin-left: 490px;
+    margin-right: 490px;
+
+}
+.gmail{
+    font-size: 30px;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 300;
+}
+.bottom{
+   background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+    padding-top: 100px;
+    padding-left: 200px;
+}
