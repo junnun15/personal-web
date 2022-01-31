@@ -3,6 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
     width: 100%;
+
 }
 .name{
     color: lightsalmon;
@@ -63,7 +64,7 @@ section{
 }
 #latest-b{
     background-image: url("images/latest-work-bg.png");
-    background-position: right;
+    background-position: left;
     background-repeat: no-repeat;
     width: 100%;
 }
@@ -101,10 +102,9 @@ footer{
     font-weight: 300;
 }
 .bottom{
-   background-image: url("images/footer-bg.png");
+    background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
-    height: 800px;
+    background-size: 100%;
     width: 100%;
-    padding-top: 100px;
-    padding-left: 200px;
+    margin: 10px;
 }
